@@ -11,7 +11,7 @@
 
 ![rds-renan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rds-renan&theme=blueberry&show_icons=true&hide_border=false&layout=compact&card_width=495)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan)](https://github.com/rds-renan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
 
 <!---
 rds-renan/rds-renan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
