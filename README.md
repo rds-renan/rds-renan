@@ -22,7 +22,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rds-renan&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rds-renan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rds-renan&theme=dark)
 
 
 
