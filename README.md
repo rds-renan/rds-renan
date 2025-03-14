@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Renan de Souza
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning bachelor information systems
-- 💞️ I’m not looking to collaborate on moment
-- 📫 How to reach me? Send msg.
+- 🛠️ Technologies: Python, PHP, Flutter, JavaScript.
+- 📫 How to reach me? rdsrenansouza@gmail.com
+- 🎮 Bad gamer in my free time.
 
 ![rds-renan's Stats](https://github-readme-stats.vercel.app/api?username=rds-renan&theme=blueberry&show_icons=true&hide_border=false&count_private=true&card_width=495)
 
