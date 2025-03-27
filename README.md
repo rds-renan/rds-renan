@@ -8,6 +8,10 @@
 
 ![rds-renan's Stats](https://github-readme-stats.vercel.app/api?username=rds-renan&theme=blueberry&show_icons=true&hide_border=false&count_private=true&card_width=450)
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical" alt="Hoang Son's GitHub Achievements" />
+</div>
+
 ![rds-renan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rds-renan&theme=blueberry&show_icons=true&hide_border=false&layout=compact&card_width=450)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
