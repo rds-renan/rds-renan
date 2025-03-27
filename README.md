@@ -18,7 +18,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rds-renan&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
+</div>
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
+</div>
 
 <!---
 rds-renan/rds-renan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
