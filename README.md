@@ -22,9 +22,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub" />
 </div>
 
-<div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
-</div>
 
 <!---
 rds-renan/rds-renan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
