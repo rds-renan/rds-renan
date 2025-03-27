@@ -7,20 +7,21 @@
 - 🎮 Pra relaxar jogar um game, geralmente FPS e RPG.
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rds-renan&theme=radical" alt="Hoang Son's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rds-renan&theme=radical" />
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rds-renan&theme=radical" alt="Hoang Son's GitHub Achievements" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rds-renan&theme=radical" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rds-renan&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rds-renan&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub" />
 </div>
+
 <div align="center">
     [![trophy](https://github-profile-trophy.vercel.app/?username=rds-renan&theme=darkhub)](https://github.com/rds-renan/github-profile-trophy)
 </div>
